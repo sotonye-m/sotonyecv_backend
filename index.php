@@ -411,9 +411,8 @@
                         </div>
 
                         <div>
-                            <a type="submit" class="button button--flex">Send
+                            <input type="submit" class="button button--flex">Send
                                 <i class="uil uil-message button__icon"></i>
-                            </a>
                         </div>
 
                     </div>
