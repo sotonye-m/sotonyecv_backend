@@ -410,9 +410,9 @@
                             <textarea name="message" id="" cols="0" rows="7" class="contact__input" required></textarea>
                         </div>
 
-                        <div>
+                        <div><i class="uil uil-message button__icon"></i>
                             <input type="submit" class="button button--flex" value="Send">
-                                <i class="uil uil-message button__icon"></i>
+                                
                             </input>    
                         </div>
 
